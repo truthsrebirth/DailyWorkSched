@@ -1,1 +1,5 @@
 # DailyWorkSched
+
+## Description
+    
+    The motivation for this particular assignment was to understand how to create a work day scheduler that displayed on the webpage the current date, hourly windows of time periods, as well as several areas to enter and submit descriptions regarding scheduled items and content. This webpage was created for me to gain a better understanding of how to use previous course content and have them all work together to display a particular task. Being that I consider myself an organized person, I see the importance of creating a scheduler as it should help said individual plan their daily schedule to an easier degree. I learned how to apply concepts such as moment.js, as well as get some more practice with understanding how function, and more specifically event listeners work.
